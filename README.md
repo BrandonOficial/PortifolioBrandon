@@ -23,4 +23,4 @@ Este é um site de portfólio pessoal de Brandon Ramos, um desenvolvedor front-e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   https://github.com/BrandonOficial/PortifolioBrandon.git
